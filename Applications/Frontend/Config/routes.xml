@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<routes>
+    <route url="(.+)/" module="Visiteur" action="index" />
+    <route url="(.+)/cv" module="Visiteur" action="cv" />
+    <route url="(.+)/contact" module="Visiteur" action="contact" />
+    <route url="(.+)/porfolio" module="Visiteur" action="porfolio" />
+</routes>

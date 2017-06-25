@@ -1,0 +1,37 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 27 avr. 2016, 12:37:38
+    Author     : N Jenny Patrick
+*/
+
+#row-header{
+    background-color: #23527c; border-radius: 2px 2px 2px 2px;;
+}
+#menu-haut ul li a{
+    color: #fff;
+    margin-top: 8px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-weight: bold;
+} 
+#menu-haut ul li a:hover{
+    margin-top: 8px;
+    color: #fff;
+    background-color: #ee632c;
+    font-weight: bold;
+}
+
+#menu-haut ul .actif{
+    margin-top: 8px;
+    color: #fff;
+    background-color: #ee632c;
+    font-weight: bold;
+}
+
+#contact h4, #contact,#adresse-contact {
+    color:#fff;
+}
